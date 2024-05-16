@@ -1,0 +1,12 @@
+How to Run
+
+To run the application locally, make sure you have Python installed. Then, install the required dependencies using pip in cmd:
+
+>>>pip install streamlit googletrans
+
+>>>cd <your_directory>
+>>> streamlit run <name>.py
+
+In case of this translation project
+
+>>> streamlit run main.py
